@@ -1,7 +1,4 @@
+> **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
 # Week 3 Reflection
 
-Respond to the weekly reflection prompt.
-Aim for 150–200 words.
-
-What surprised you this week?
-What questions are you left with?
+Reflect 3: What does “authenticity” mean when identity is co-constructed with AI?
