@@ -1,2 +1,2 @@
 # DH101
-Hello, DH – this site will document my critical making this semester.
+Starter repository for DH 101 Spring 2026

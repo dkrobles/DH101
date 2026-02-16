@@ -1,7 +1,5 @@
+> **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
+
 # Week 11 Reflection
 
-Respond to the weekly reflection prompt.
-Aim for 150–200 words.
-
-What surprised you this week?
-What questions are you left with?
+Reflect 11: Who does the invisible work of AI, and who profits from it?
