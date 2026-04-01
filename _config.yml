@@ -1,0 +1,7 @@
+theme: jekyll-theme-primer
+title: DH101
+description: Critical Making Throughout the Semester
+
+# GitHub Pages settings
+source: .
+destination: ./_site
