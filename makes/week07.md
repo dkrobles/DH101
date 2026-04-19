@@ -45,5 +45,5 @@ Research sources:
 - Atlas of AI – Kate Crawford
 - AI Now Institute reports
 - Company information from OpenAI, Google, Microsoft, Meta Platforms, Anthropic
-Map tool used: Google My Maps
+- Map tool used: Google My Maps
 
