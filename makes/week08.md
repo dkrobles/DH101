@@ -1,10 +1,18 @@
 # Week 8 – Networks of Knowledge & Power
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+Kumu network embed (if the embed doesn’t load, use the direct link below).
 
-Kumu Link: https://kumu.io/dkrobles/ai-ethics-networks#dh101-ai-ethics
+<iframe
+	src="https://embed.kumu.io/33fec5ec85e6d6d59c094bd2b72e9c3e"
+	width="940"
+	height="600"
+	frameborder="0"
+></iframe>
+
+Direct link: https://embed.kumu.io/33fec5ec85e6d6d59c094bd2b72e9c3e
+
+
 
 ## Process Notes
 How did you make this?
