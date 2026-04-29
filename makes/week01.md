@@ -59,6 +59,3 @@ When machines participate in making, creativity becomes distributed between huma
 
 ## Attribution & AI Use
 - Tools used: https://thispersondoesnotexist.com/ 
-- AI prompts (summary): 
-- What AI generated:
-- What you changed or decided:
