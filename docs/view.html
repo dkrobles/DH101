@@ -154,12 +154,14 @@
     } else {
       pathText.textContent = path;
 
-      // IMPORTANT: docs/ is the site root. Your markdown folders live one level up in the repo.
-      // GitHub Pages (docs source) still serves them at /DH101/<folder>/... because it publishes the whole repo.
-      // We can request them relative to the site root.
-      const url = `../${path}`;
+  // Build an absolute URL to the requested markdown file.
+  // On GitHub Pages project sites, the base path is usually /<repo>/.
+  // We derive it from the current location, then append the requested path.
+  const repoBasePath = window.location.pathname.split('/').filter(Boolean)[0];
+  const base = repoBasePath ? `/${repoBasePath}/` : '/';
+  const url = new URL(path.replace(/^\/+/, ''), window.location.origin + base).toString();
 
-      fetch(url, { cache: 'no-store' })
+  fetch(url, { cache: 'no-store' })
         .then(async (res) => {
           if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
           return await res.text();
