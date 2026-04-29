@@ -1,0 +1,7 @@
+> **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
+
+# Week 7 Reflection
+
+Reflect 7: How does AI reshape global geographies of power, labor, and environment?
+
+Artificial intelligence is transforming the global geography of power, labor, and the environment in the following ways: First, artificial intelligence enhances the power of countries and corporations that have access to the latest technology, data, and computing power. Technology companies and technologically advanced countries gain power, and other countries, may become beholden to them because of their relative ,lack of resources. Second, artificial intelligence is transforming labor in the following ways: artificial intelligence can automate certain jobs, replacing human labor in repetitive or routine tasks, and creating new jobs in data science, programming, and artificial intelligence development. Third, artificial intelligence has significant impact on the environment: data centers require a lot of power and water to cool them, and artificial intelligence can lead to a rise in energy consumption and carbon emissions. However, artificial intelligence can be a force for positive change in the environment because it can optimize energy consumption, predict weather patterns, and develop efficient transport and agricultural systems worldwide.
