@@ -154,12 +154,10 @@
     } else {
       pathText.textContent = path;
 
-  // Build an absolute URL to the requested markdown file.
-  // On GitHub Pages project sites, the base path is usually /<repo>/.
-  // We derive it from the current location, then append the requested path.
-  const repoBasePath = window.location.pathname.split('/').filter(Boolean)[0];
-  const base = repoBasePath ? `/${repoBasePath}/` : '/';
-  const url = new URL(path.replace(/^\/+/, ''), window.location.origin + base).toString();
+  // Build a URL relative to the current directory.
+  // When served as https://<user>.github.io/<repo>/view.html, using "./" keeps us inside /<repo>/.
+  // This avoids guessing the repo name and fixes 404s on project sites.
+  const url = new URL(`./${path.replace(/^\/+/, '')}`, window.location.href).toString();
 
   fetch(url, { cache: 'no-store' })
         .then(async (res) => {
