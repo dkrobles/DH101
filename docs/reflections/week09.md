@@ -1,4 +1,4 @@
-> **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
+> **Markdown help:** See [Markdown Guide](../view.html?path=pages/markdown-guide.md) for formatting tips and a reflection template.
 
 # Week 9 Reflection
 
