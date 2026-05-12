@@ -4,7 +4,15 @@
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
 
-Infographic: https://canva.link/u2atuv4bhqo2xge
+### Infographic (Canva)
+<iframe
+	src="https://www.canva.com/design/DAHHQDuf9Aw/M1cmijqxQFtBqzA81uzpDA/view?embed"
+	style="width:100%; max-width:820px; height:80vh; border:0; border-radius:12px; display:block; margin:0.75rem auto;"
+	allowfullscreen
+	loading="lazy"
+></iframe>
+
+[Open the infographic in a new tab](https://www.canva.com/design/DAHHQDuf9Aw/M1cmijqxQFtBqzA81uzpDA/view)
 
 ## Process Notes
 How did you make this?
