@@ -12,6 +12,8 @@ This Person Does Not Exist (embed). If the embed doesn’t load, use the direct 
 
 Direct link: https://thispersondoesnotexist.com/
 
+[Open the artifact in a new tab](https://thispersondoesnotexist.com/)
+
 
 
 ## Process Notes
