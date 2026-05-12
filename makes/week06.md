@@ -7,7 +7,7 @@ Include images, links, or media as appropriate.
 ### PDF 1
 <iframe
 	src="/DH101/assets/pdfs/week6pic1.pdf"
-	style="width:100%; height:80vh; border:1px solid rgba(0,0,0,0.12); border-radius:12px;"
+	style="width:100%; max-width:640px; height:65vh; border:1px solid rgba(0,0,0,0.12); border-radius:12px; display:block; margin:0.75rem auto;"
 	loading="lazy"
 ></iframe>
 
@@ -15,12 +15,12 @@ Include images, links, or media as appropriate.
 
 ### PDF 2
 <iframe
-	src="/DH101/assets/pdfs/week6pic2.pdf"
-	style="width:100%; height:80vh; border:1px solid rgba(0,0,0,0.12); border-radius:12px;"
+	src="/DH101/assets/pdfs/week6pic2-rotated.pdf"
+	style="width:100%; max-width:640px; height:65vh; border:1px solid rgba(0,0,0,0.12); border-radius:12px; display:block; margin:0.75rem auto;"
 	loading="lazy"
 ></iframe>
 
-[Open PDF 2 in a new tab](/DH101/assets/pdfs/week6pic2.pdf)
+[Open PDF 2 in a new tab](/DH101/assets/pdfs/week6pic2-rotated.pdf)
 
 ## Process Notes
 How did you make this?
