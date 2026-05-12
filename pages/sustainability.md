@@ -14,7 +14,7 @@ Data Sources:
 - MLCommons Carbon Impact Calculator: https://mlco2.github.io/impact
 - Google Environmental Reports (data centers and emissions)
 - Microsoft Sustainability Reports (water and energy use)
-- Estimates: GPT-3 training (552 tons CO&#8322;), ChatGPT query (4.55g CO&#8322;)
+- Estimates: GPT-3 training — ~552 tons CO2; ChatGPT query — ~4.55g CO2
 - EPA CO₂ equivalency data (flights, households, trees)
 
 Personal Reflection:
