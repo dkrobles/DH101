@@ -4,7 +4,9 @@
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
 
-Curated Outputs: https://chatgpt.com/backend-api/estuary/content?id=file_00000000d7c471f8a2fc0162a7fc3178&ts=493078&p=fs&cid=1&sig=3a87d11289f764f8b65e54b244248153f7de6f21c5a6e5f92679708b7e491e49&v=0
+![Week 09 artifact](/DH101/assets/images/make8.png)
+
+[Open image in a new tab](/DH101/assets/images/make8.png)
 
 ## Process Notes
 How did you make this?
