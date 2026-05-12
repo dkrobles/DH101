@@ -4,8 +4,23 @@
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
 
-file:///Users/dante/Desktop/Screenshot%202026-03-09%20at%203.05.12%E2%80%AFPM.png
-file:///Users/dante/Desktop/Screenshot%202026-03-09%20at%203.14.52%E2%80%AFPM.png
+### PDF 1
+<iframe
+	src="/DH101/assets/pdfs/week6pic1.pdf"
+	style="width:100%; height:80vh; border:1px solid rgba(0,0,0,0.12); border-radius:12px;"
+	loading="lazy"
+></iframe>
+
+[Open PDF 1 in a new tab](/DH101/assets/pdfs/week6pic1.pdf)
+
+### PDF 2
+<iframe
+	src="/DH101/assets/pdfs/week6pic2.pdf"
+	style="width:100%; height:80vh; border:1px solid rgba(0,0,0,0.12); border-radius:12px;"
+	loading="lazy"
+></iframe>
+
+[Open PDF 2 in a new tab](/DH101/assets/pdfs/week6pic2.pdf)
 
 ## Process Notes
 How did you make this?
