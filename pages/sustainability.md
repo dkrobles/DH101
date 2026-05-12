@@ -44,3 +44,6 @@ Who is responsible?
 
 Responsibility is shared, but not equal. Tech companies and governments have the greatest responsibility because they control infrastructure and policy. Users play a smaller role through demand and usage habits, but cannot solve the issue alone.
 
+Website Sustainability Choices:
+
+To reduce my own website’s environmental footprint, I kept the design lightweight by minimizing unnecessary media, avoiding autoplay embeds, and limiting external scripts. I also used simple markdown formatting instead of resource-heavy design features. These choices reflect Crawford’s argument that digital systems still rely on physical infrastructure and energy use, so even small design decisions can contribute to sustainability.
