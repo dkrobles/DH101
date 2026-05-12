@@ -4,7 +4,14 @@
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
 
-https://www.google.com/maps/d/u/1/edit?mid=17acCmvjsQ5Lhl9S1fR_6x_cdu_cBc5Q&ll=2.5681368941344687%2C0&z=2
+<iframe
+	src="https://www.google.com/maps/d/embed?mid=17acCmvjsQ5Lhl9S1fR_6x_cdu_cBc5Q&ehbc=2E312F"
+	style="width:100%; max-width:820px; height:70vh; border:0; border-radius:12px; display:block; margin:0.75rem auto;"
+	loading="lazy"
+	referrerpolicy="no-referrer-when-downgrade"
+></iframe>
+
+[Open the map in a new tab](https://www.google.com/maps/d/embed?mid=17acCmvjsQ5Lhl9S1fR_6x_cdu_cBc5Q&ehbc=2E312F)
 
 ## Process Notes
 How did you make this?
