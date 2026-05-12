@@ -13,6 +13,13 @@ How did you make this?
 What tools did you use?
 What decisions did you make?
 
+I made these images by using AI image generation and editing tools to transform an original selfie into two different visual representations of myself. I started with a realistic selfie and used AI to adjust the setting, appearance, and style based on specific ideas I wanted each image to express. For the sunny outdoor selfie, I focused on creating a natural but idealized version of myself by changing the background to a bright, tropical setting with sunlight and palm trees. I kept most of my physical features realistic because I wanted that image to feel grounded and recognizable.
+
+For the second selfie, I made more dramatic creative decisions. I used AI to distort the colors, add glowing purple eyes, create curly hair, and design a surreal, psychedelic background. These choices were intentional because I wanted that image to represent creativity, imagination, and a more exaggerated inner version of myself rather than realism.
+
+The main tools I used were AI-based image generation and photo editing prompts. My biggest decisions involved contrast—realistic versus surreal, external identity versus internal emotion. I chose visual elements like color, lighting, and background carefully to make each selfie communicate a different side of who I am. Together, the two images became a way to explore both self-perception and artistic expression.
+
+
 ## Reflection
 Respond to this week’s reflection prompt in 200–300 words.
 
