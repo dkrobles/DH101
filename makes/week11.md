@@ -4,7 +4,15 @@
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
 
-Zine: file:///Users/dante/Downloads/Hidden%20Labor%20of%20Moderation%20Clean%20Feeds,%20Dirty%20Work.pdf
+### Zine (Canva)
+<iframe
+    src="https://www.canva.com/design/DAHG89LwdlI/0y8mWnm6lJ2H9dEvKDljDw/view?embed"
+    style="width:100%; max-width:820px; height:80vh; border:0; border-radius:12px; display:block; margin:0.75rem auto;"
+    allowfullscreen
+    loading="lazy"
+></iframe>
+
+[Open the zine in a new tab](https://www.canva.com/design/DAHG89LwdlI/0y8mWnm6lJ2H9dEvKDljDw/view)
 
 ## Process Notes
 How did you make this?
