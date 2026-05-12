@@ -4,7 +4,15 @@
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
 
-file:///Users/dante/Downloads/Presentation%20-%20The%20Holy%20Grail%20of%20Pizza-2.pdf
+### Comic (Canva)
+<iframe
+	src="https://www.canva.com/design/DAHBDDWyCG8/Iko5RKwgCsVwvpLeIg04Dg/view?embed"
+	style="width: 100%; height: 80vh; border: 0; border-radius: 12px;"
+	allowfullscreen
+	loading="lazy"
+></iframe>
+
+[Open the comic in a new tab](https://www.canva.com/design/DAHBDDWyCG8/Iko5RKwgCsVwvpLeIg04Dg/view)
 
 ## Process Notes
 How did you make this?
