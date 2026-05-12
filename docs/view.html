@@ -92,6 +92,13 @@
       color: var(--muted);
     }
 
+    /* Guardrail: some markdown parsers may emit <del> for strikethrough (~~text~~).
+       If a line is accidentally turning into strikethrough, make it render normally. */
+    article del {
+      text-decoration: none;
+      opacity: 1;
+    }
+
     .hint {
       margin-top: 1rem;
       color: var(--muted);
