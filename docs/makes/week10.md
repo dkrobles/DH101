@@ -4,7 +4,14 @@
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
 
-The Perfect Candidate: file:///Users/dante/Downloads/DH101.html
+### The Perfect Candidate (Interactive)
+<iframe
+	src="/DH101/assets/html/DH101-2.html"
+	style="width:100%; max-width:820px; height:80vh; border:1px solid rgba(0,0,0,0.12); border-radius:12px; display:block; margin:0.75rem auto; background:#fff;"
+	loading="lazy"
+></iframe>
+
+[Open in a new tab](/DH101/assets/html/DH101-2.html)
 
 ## Process Notes
 How did you make this?
