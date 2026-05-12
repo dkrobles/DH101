@@ -16,7 +16,7 @@ Include images, links, or media as appropriate.
 ### PDF 2
 <iframe
 	src="/DH101/assets/pdfs/week6pic2-rotated.pdf"
-	style="width:100%; max-width:640px; height:65vh; border:1px solid rgba(0,0,0,0.12); border-radius:12px; display:block; margin:0.75rem auto;"
+	style="width:100%; max-width:640px; height:75vh; border:1px solid rgba(0,0,0,0.12); border-radius:12px; display:block; margin:0.75rem auto; background:#fff;"
 	loading="lazy"
 ></iframe>
 
