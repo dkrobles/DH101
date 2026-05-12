@@ -43,3 +43,4 @@ What requires systemic change
 Who is responsible?
 
 Responsibility is shared, but not equal. Tech companies and governments have the greatest responsibility because they control infrastructure and policy. Users play a smaller role through demand and usage habits, but cannot solve the issue alone.
+
