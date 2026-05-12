@@ -16,6 +16,8 @@ How did you make this?
 What tools did you use?
 What decisions did you make?
 
+I created this video using Sora AI and a series of original prompts that I wrote myself to shape the sequence and style. My process focused on building a playful, surreal narrative by carefully deciding what actions the cat would do and in what order. I chose to have the cat start by dancing to immediately create an energetic and funny tone, then shift to the cat thinking about lasagna to add humor and an unexpected imaginative moment, and finally return to dancing to bring the video full circle. These choices helped make the video feel cohesive while also keeping it entertaining and absurd. The main tools I used were Sora AI for generating the visuals and my own prompt writing for directing each scene. I made creative decisions about pacing, character behavior, and transitions so the video would feel engaging rather than random. By combining specific prompts with intentional scene progression, I was able to turn a simple idea into a short, amusing visual story.
+
 ## Reflection
 Respond to this week’s reflection prompt in 200–300 words.
 
