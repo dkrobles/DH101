@@ -1,8 +1,19 @@
 # Week 1 – Reverse Engineering
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+This Person Does Not Exist (embed). If the embed doesn’t load, use the direct link below.
+
+<iframe
+	src="https://thispersondoesnotexist.com/"
+	width="940"
+	height="600"
+	style="max-width:100%; border:0;"
+	loading="lazy"
+	referrerpolicy="no-referrer"
+	allow="fullscreen"
+></iframe>
+
+Direct link: https://thispersondoesnotexist.com/
 
 ## Process Notes
 How did you make this?
