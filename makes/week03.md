@@ -5,10 +5,10 @@ Describe or embed your artifact here.
 Include images, links, or media as appropriate.
 
 ### Selfie 1
-![Week 03 selfie 1](../assets/images/make3selfie1.png)
+![Week 03 selfie 1](/DH101/assets/images/make3selfie1.png)
 
 ### Selfie 2
-![Week 03 selfie 2](../assets/images/make3selfie2.png)
+![Week 03 selfie 2](/DH101/assets/images/make3selfie2.png)
 
 ## Process Notes
 How did you make this?
