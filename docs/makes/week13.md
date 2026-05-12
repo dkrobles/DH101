@@ -4,7 +4,15 @@
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
 
-Speculative Artifact: https://canva.link/0f5dke546m4pm1n
+### Speculative Artifact (Canva)
+<iframe
+	src="https://www.canva.com/design/DAHHVLPk6iw/SHQvFOyP7cUG5n5XW0AZoA/view?embed"
+	style="width:100%; max-width:820px; height:80vh; border:0; border-radius:12px; display:block; margin:0.75rem auto;"
+	allowfullscreen
+	loading="lazy"
+></iframe>
+
+[Open the artifact in a new tab](https://www.canva.com/design/DAHHVLPk6iw/SHQvFOyP7cUG5n5XW0AZoA/view)
 
 ## Process Notes
 How did you make this?
