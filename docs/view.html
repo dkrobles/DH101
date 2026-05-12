@@ -92,6 +92,23 @@
       color: var(--muted);
     }
 
+    /* Images: keep them inside the card and looking good on mobile */
+    article img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0.75rem auto;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    }
+
+    /* If an image is extremely wide, this prevents it from feeling overpowering on desktop */
+    article img {
+      max-height: 70vh;
+      object-fit: contain;
+    }
+
     /* Guardrail: some markdown parsers may emit <del> for strikethrough (~~text~~).
        If a line is accidentally turning into strikethrough, make it render normally. */
     article del {
