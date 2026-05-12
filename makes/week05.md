@@ -3,7 +3,13 @@
 ## The Artifact
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
-file:///Users/dante/Downloads/Make4video.mp4
+
+<video controls loop preload="metadata" style="width:100%; max-width:820px; border-radius:12px; border:1px solid rgba(0,0,0,0.12); display:block; margin:0.75rem auto;">
+	<source src="/DH101/assets/videos/Make4video-2.mp4" type="video/mp4" />
+	Your browser doesn’t support the video tag.
+</video>
+
+[Open video in a new tab](/DH101/assets/videos/Make4video-2.mp4)
 
 ## Process Notes
 How did you make this?
